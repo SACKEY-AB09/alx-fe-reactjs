@@ -1,3 +1,4 @@
+import UserProfile from './components/UserProfile.jsx'
 import Header from './components/Header.jsx'
 import MainContent from './components/MainContent.jsx'
 import Footer from './components/Footer.jsx'
@@ -12,7 +13,7 @@ function App() {
 
   return (
     <> 
-       
+       <UserProfile name="Sackey" age="22" bio=" Love hiking and photography as well as music" />
        <Header />
        <MainContent />
        <Footer />
