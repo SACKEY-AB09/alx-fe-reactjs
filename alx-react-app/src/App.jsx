@@ -13,7 +13,7 @@ function App() {
 
   return (
     <> 
-       <UserProfile name="Sackey" age="22" bio=" Love hiking and photography as well as music" />
+       <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
        <Header />
        <MainContent />
        <Footer />
